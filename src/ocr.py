@@ -15,7 +15,7 @@ class PlateOCR:
         if tesseract_path:
             pytesseract.pytesseract.tesseract_cmd = tesseract_path
     
-    def recognize_plate_oldddd(self, plate_image, preprocess=True):
+    def recognize_plate_v1(self, plate_image, preprocess=True):
         """
         Plaka görüntüsündeki karakterleri tanı
         
@@ -144,7 +144,7 @@ class PlateOCR:
         
         return text
     
-    def analyze_results_olddddd(self, original_text, processed_text):
+    def analyze_results_v1(self, original_text, processed_text):
         """
         OCR sonuçlarını analiz et ve gerekirse düzeltmeler öner
         

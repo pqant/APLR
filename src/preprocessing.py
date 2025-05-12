@@ -99,7 +99,7 @@ def preprocess_image_for_plate_detection(image):
     # Ön işlenmiş görüntüyü döndür
     return equalized
 
-def preprocess_plate_for_ocr_olddddddddddd(plate_image):
+def preprocess_plate_for_ocr_v1(plate_image):
     """
     OCR için tespit edilen plaka görüntüsünü ön işle
     
@@ -166,5 +166,4 @@ def preprocess_plate_for_ocr(plate_img):
     # binary_plate = cv2.erode(binary_plate, kernel, iterations = 1)
     # binary_plate = cv2.dilate(binary_plate, kernel, iterations = 1)
 
-    # Sonuçları kaydederken bu işlenmiş görüntüyü kontrol edin.
     return binary_plate    
