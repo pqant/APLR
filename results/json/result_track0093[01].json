@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "A226958",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.8783078789710999,
+        "position": [
+            745,
+            506,
+            822,
+            534
+        ],
+        "is_valid": false
+    }
+]

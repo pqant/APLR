@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "BCS4506",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.7740980982780457,
+        "position": [
+            1248,
+            398,
+            1314,
+            423
+        ],
+        "is_valid": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "CAB1894",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.8974074125289917,
+        "position": [
+            914,
+            639,
+            1053,
+            687
+        ],
+        "is_valid": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "RANDON",
+        "ocr_confidence": 0.6,
+        "detection_confidence": 0.7430087924003601,
+        "position": [
+            875,
+            395,
+            1021,
+            437
+        ],
+        "is_valid": false
+    }
+]

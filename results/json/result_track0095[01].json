@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "IRYT2214",
+        "ocr_confidence": 0.8,
+        "detection_confidence": 0.4166279137134552,
+        "position": [
+            834,
+            428,
+            894,
+            449
+        ],
+        "is_valid": false
+    }
+]

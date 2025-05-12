@@ -1,0 +1,72 @@
+{
+    "track0091[01].png": [
+        {
+            "plate_text": "MLS5511",
+            "ocr_confidence": 0.7,
+            "detection_confidence": 0.8722808361053467,
+            "position": [
+                857,
+                502,
+                917,
+                527
+            ],
+            "is_valid": true
+        }
+    ],
+    "track0092[01].png": [
+        {
+            "plate_text": "V38",
+            "ocr_confidence": 0.3,
+            "detection_confidence": 0.7370684146881104,
+            "position": [
+                905,
+                476,
+                997,
+                509
+            ],
+            "is_valid": false
+        }
+    ],
+    "track0093[01].png": [
+        {
+            "plate_text": "A226958",
+            "ocr_confidence": 0.7,
+            "detection_confidence": 0.8783078789710999,
+            "position": [
+                745,
+                506,
+                822,
+                534
+            ],
+            "is_valid": false
+        }
+    ],
+    "track0094[01].png": [
+        {
+            "plate_text": "",
+            "ocr_confidence": 0.0,
+            "detection_confidence": 0.7735395431518555,
+            "position": [
+                868,
+                386,
+                953,
+                413
+            ],
+            "is_valid": false
+        }
+    ],
+    "track0095[01].png": [
+        {
+            "plate_text": "IRYT2214",
+            "ocr_confidence": 0.8,
+            "detection_confidence": 0.4166279137134552,
+            "position": [
+                834,
+                428,
+                894,
+                449
+            ],
+            "is_valid": false
+        }
+    ]
+}

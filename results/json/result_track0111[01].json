@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "RIOYUSS",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.862342119216919,
+        "position": [
+            742,
+            596,
+            814,
+            617
+        ],
+        "is_valid": false
+    }
+]

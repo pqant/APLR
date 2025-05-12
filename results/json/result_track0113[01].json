@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "P3058",
+        "ocr_confidence": 0.5,
+        "detection_confidence": 0.865848183631897,
+        "position": [
+            795,
+            605,
+            874,
+            632
+        ],
+        "is_valid": false
+    }
+]

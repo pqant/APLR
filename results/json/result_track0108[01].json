@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "ARY9308",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.8829432129859924,
+        "position": [
+            871,
+            419,
+            965,
+            450
+        ],
+        "is_valid": true
+    }
+]

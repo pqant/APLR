@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "MLS5511",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.8722808361053467,
+        "position": [
+            857,
+            502,
+            917,
+            527
+        ],
+        "is_valid": true
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "plate_text": "AWX9307",
+        "ocr_confidence": 0.7,
+        "detection_confidence": 0.9183170795440674,
+        "position": [
+            1222,
+            513,
+            1303,
+            546
+        ],
+        "is_valid": true
+    }
+]
